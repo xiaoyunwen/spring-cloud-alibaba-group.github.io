@@ -5,7 +5,7 @@ description: "Spring AI 与通义千问集成，使用 Spring AI 开发 Java AI 
 ---
 
 ## 1. 概览
-Spring 框架通过 Spring AI 项目正式发布了对生成式 AI 应用开发的支持。 Spring Cloud Alibaba 当前基于 Spring AI 提供了对阿里通义系列的完整支持，包括对话、prompt模板、Function Call、文生图、向量数据库等本。
+Spring 框架通过 Spring AI 项目正式发布了对生成式 AI 应用开发的支持。 Spring Cloud Alibaba 当前基于 Spring AI 提供了对阿里通义系列的完整支持，包括对话、prompt模板、Function Call、文生图、向量数据库等功能。
 
 ## 2. Spring AI 核心概念
 
